@@ -2,8 +2,6 @@
 
 #### Senior full-stack engineer. I take a product from the API and the interface through to deploy.
 
-Josel Mariano · Senior Full Stack Developer at CreateApe · Philippines
-
 10+ years building web products. PHP and e-commerce first, then senior and team-lead work across SaaS, CRM, logistics, sports betting, and mapping.
 
 - 🎯 **Current focus:** SaaS, CRM, and responsive marketing sites. Next.js and Webflow up front, Laravel and MySQL on the API, GitHub Actions on the way out.
